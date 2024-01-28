@@ -1,4 +1,4 @@
-### Olá 👋, eu sou a Viviane Alves
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4961&pause=996&color=C22BBD&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Viviane+Alves;FullStack+Developer+%F0%9F%91%BE)](https://git.io/typing-svg)
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviianealvesc&show_icons=true&theme=radical)
 
