@@ -1,4 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4907&pause=1000&color=E11AC9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Viviane+Alves;FullStack+Developer++%F0%9F%91%BE)](https://git.io/typing-svg)
+
+<p>
+  Sou formada em Análise e Desenvolvimento de Sistemas em 2024 e atualmente atuo como freelancer, criando soluções fullstack para empresas. 
+
+Além do trabalho como freelancer, também ofereço mentorias fullstack, onde compartilho meu conhecimento para ajudar outras pessoas a desenvolverem suas habilidades em programação. As linguagens e tecnologias com as quais tenho mais experiência incluem HTML, CSS, JavaScript, Vue.js, Tailwind CSS, PHP, Laravel, entre outras.
+
+Minha paixão por tecnologia e ensino me impulsiona a estar sempre aprendendo e aprimorando minhas habilidades, para entregar o melhor em cada projeto que participo.
+</p>
+
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviianealvesc&show_icons=true&theme=radical)
 
