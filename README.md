@@ -5,7 +5,7 @@
 
   Minha jornada na tecnologia começou em 2019, quando iniciei um curso técnico integrado ao ensino médio na ETEC, cursando Técnico em Desenvolvimento de Sistemas. Me formei em 2021 e, desde então, venho aprimorando minhas habilidades e conhecimentos.
 
-  Além do trabalho como freelancer, também ofereço mentorias fullstack, onde compartilho meu conhecimento para ajudar outras pessoas a desenvolverem suas habilidades em programação. As linguagens e tecnologias com as quais tenho mais experiência incluem HTML, CSS, JavaScript, Vue.js, Tailwind CSS, PHP, Laravel, entre outras.
+  Atualmente atuo como desenvolvedora web fullstack, o que tem me permitido aprimorar constantemente minhas habilidades em programação no dia a dia. Tenho experiência com diversas linguagens e tecnologias, entre elas HTML, CSS, JavaScript, Vue.js, Tailwind CSS, PHP e Laravel, além de estar sempre em busca de evolução técnica e boas práticas no desenvolvimento de software.
 
   Minha paixão por tecnologia e ensino me impulsiona a estar sempre aprendendo e aprimorando minhas habilidades, para entregar o melhor em cada projeto que participo.
 </p>
