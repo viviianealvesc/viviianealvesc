@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4907&pause=1000&color=E11AC9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Viviane+Alves;FullStack+Developer++%F0%9F%91%BE)](https://git.io/typing-svg)
 
 <p>
-  Sou formada em Análise e Desenvolvimento de Sistemas em 2024 e atualmente atuo como freelancer, criando soluções fullstack para empresas.
+Sou formada em Análise e Desenvolvimento de Sistemas (2024) e atualmente atuo como desenvolvedora web fullstack em uma empresa, trabalhando diariamente no desenvolvimento e evolução de soluções web.
 
-  Minha jornada na tecnologia começou em 2019, quando iniciei um curso técnico integrado ao ensino médio na ETEC, cursando Técnico em Desenvolvimento de Sistemas. Me formei em 2021 e, desde então, venho aprimorando minhas habilidades e conhecimentos.
+Minha trajetória na área de tecnologia começou em 2019, quando iniciei o curso técnico em Desenvolvimento de Sistemas integrado ao ensino médio na ETEC, concluído em 2021. Desde então, venho aprimorando continuamente meus conhecimentos e habilidades na área.
 
-  Atualmente atuo como desenvolvedora web fullstack, o que tem me permitido aprimorar constantemente minhas habilidades em programação no dia a dia. Tenho experiência com diversas linguagens e tecnologias, entre elas HTML, CSS, JavaScript, Vue.js, Tailwind CSS, PHP e Laravel, além de estar sempre em busca de evolução técnica e boas práticas no desenvolvimento de software.
+No meu dia a dia como desenvolvedora web fullstack, tenho a oportunidade de evoluir constantemente em programação, atuando com tecnologias como HTML, CSS, JavaScript, Tailwind CSS, PHP e Laravel, sempre buscando boas práticas, código limpo e soluções eficientes.
 
-  Minha paixão por tecnologia e ensino me impulsiona a estar sempre aprendendo e aprimorando minhas habilidades, para entregar o melhor em cada projeto que participo.
+Sou movida pela paixão por tecnologia e aprendizado contínuo, o que me motiva a evoluir tecnicamente e a entregar o melhor resultado em cada projeto do qual participo.
 </p>
 
 ##
