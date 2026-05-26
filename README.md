@@ -1,47 +1,143 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4907&pause=1000&color=E11AC9&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Viviane+Alves;FullStack+Developer++%F0%9F%91%BE)](https://git.io/typing-svg)
+<div align="center">
 
-<p>
-Sou formada em Análise e Desenvolvimento de Sistemas (2024) e atualmente atuo como desenvolvedora web fullstack em uma empresa, trabalhando diariamente no desenvolvimento e evolução de soluções web.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e3a8a&section=header"/>
 
-Minha trajetória na área de tecnologia começou em 2019, quando iniciei o curso técnico em Desenvolvimento de Sistemas integrado ao ensino médio na ETEC, concluído em 2021. Desde então, venho aprimorando continuamente meus conhecimentos e habilidades na área.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+me+chamo+Viviane+Alves;FullStack+Developer+%F0%9F%91%BE;Laravel+%7C+Livewire+%7C+TailwindCSS;Construindo+solu%C3%A7%C3%B5es+web+modernas)](https://git.io/typing-svg)
 
-No meu dia a dia como desenvolvedora web fullstack, tenho a oportunidade de evoluir constantemente em programação, atuando com tecnologias como HTML, CSS, JavaScript, Tailwind CSS, PHP e Laravel, sempre buscando boas práticas, código limpo e soluções eficientes.
+</div>
 
-Sou movida pela paixão por tecnologia e aprendizado contínuo, o que me motiva a evoluir tecnicamente e a entregar o melhor resultado em cada projeto do qual participo.
+---
+
+<div align="center">
+
+### 💻 Sobre mim
+
+</div>
+
+<p align="center">
+Desenvolvedora FullStack apaixonada por tecnologia, interfaces modernas e soluções escaláveis.
+
+🎓 Formada em Análise e Desenvolvimento de Sistemas (2024)  
+🚀 Desenvolvendo aplicações web desde 2019  
+⚡ Especialista em Laravel, Livewire e TailwindCSS  
+📚 Sempre buscando evolução contínua e boas práticas de desenvolvimento
+
 </p>
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviianealvesc&show_icons=true&theme=radical)
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vivi-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="vivi-tailwind" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="vivi-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="vivi-laravel" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" />
-  <img align="center" alt="vivi-sql" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="vivi-bd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
-  <img align="center" alt="vivi-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
+<div align="center">
+
+# 📊 GitHub Analytics
+
 </div>
 
-          
-          
-  ##
+<div align="center">
 
-<div>
-  <a href="https://www.youtube.com/channel/UChGg3A8sp5ogFtePEVsLLPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/vivihcode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:viviane.alves01@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viviane-alves-560589237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viviianealvesc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviianealvesc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+
+<div align="center">
+
+# 🔥 Contribuições em Tempo Real
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=viviianealvesc&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Estatísticas Avançadas
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viviianealvesc&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viviianealvesc&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viviianealvesc&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Tecnologias
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,git,github" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Commits e Streaks Reais
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viviianealvesc&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Redes Sociais
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/viviane-alves-560589237/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/vivihcode" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UChGg3A8sp5ogFtePEVsLLPA" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:viviane.alves01@fatec.sp.gov.br">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Snake Contributions
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/viviianealvesc/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -52,3 +148,13 @@ Sou movida pela paixão por tecnologia e aprendizado contínuo, o que me motiva 
     src="https://raw.githubusercontent.com/viviianealvesc/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,100:0f172a&section=footer"/>
+
+</div>
